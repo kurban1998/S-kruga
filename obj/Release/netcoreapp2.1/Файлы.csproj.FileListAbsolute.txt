@@ -1,0 +1,11 @@
+C:\Users\SONY\source\repos\Файлы\Файлы\bin\Release\netcoreapp2.1\Файлы.deps.json
+C:\Users\SONY\source\repos\Файлы\Файлы\bin\Release\netcoreapp2.1\Файлы.runtimeconfig.json
+C:\Users\SONY\source\repos\Файлы\Файлы\bin\Release\netcoreapp2.1\Файлы.runtimeconfig.dev.json
+C:\Users\SONY\source\repos\Файлы\Файлы\bin\Release\netcoreapp2.1\Файлы.dll
+C:\Users\SONY\source\repos\Файлы\Файлы\bin\Release\netcoreapp2.1\Файлы.pdb
+C:\Users\SONY\source\repos\Файлы\Файлы\obj\Release\netcoreapp2.1\Файлы.csprojAssemblyReference.cache
+C:\Users\SONY\source\repos\Файлы\Файлы\obj\Release\netcoreapp2.1\Файлы.csproj.CoreCompileInputs.cache
+C:\Users\SONY\source\repos\Файлы\Файлы\obj\Release\netcoreapp2.1\Файлы.AssemblyInfoInputs.cache
+C:\Users\SONY\source\repos\Файлы\Файлы\obj\Release\netcoreapp2.1\Файлы.AssemblyInfo.cs
+C:\Users\SONY\source\repos\Файлы\Файлы\obj\Release\netcoreapp2.1\Файлы.dll
+C:\Users\SONY\source\repos\Файлы\Файлы\obj\Release\netcoreapp2.1\Файлы.pdb

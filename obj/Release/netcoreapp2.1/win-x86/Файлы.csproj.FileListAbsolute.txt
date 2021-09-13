@@ -1,0 +1,14 @@
+C:\Users\SONY\source\repos\Файлы\Файлы\bin\Release\netcoreapp2.1\win-x86\hostpolicy.dll
+C:\Users\SONY\source\repos\Файлы\Файлы\bin\Release\netcoreapp2.1\win-x86\hostfxr.dll
+C:\Users\SONY\source\repos\Файлы\Файлы\bin\Release\netcoreapp2.1\win-x86\Файлы.exe
+C:\Users\SONY\source\repos\Файлы\Файлы\bin\Release\netcoreapp2.1\win-x86\Файлы.deps.json
+C:\Users\SONY\source\repos\Файлы\Файлы\bin\Release\netcoreapp2.1\win-x86\Файлы.runtimeconfig.json
+C:\Users\SONY\source\repos\Файлы\Файлы\bin\Release\netcoreapp2.1\win-x86\Файлы.runtimeconfig.dev.json
+C:\Users\SONY\source\repos\Файлы\Файлы\bin\Release\netcoreapp2.1\win-x86\Файлы.dll
+C:\Users\SONY\source\repos\Файлы\Файлы\bin\Release\netcoreapp2.1\win-x86\Файлы.pdb
+C:\Users\SONY\source\repos\Файлы\Файлы\obj\Release\netcoreapp2.1\win-x86\Файлы.csprojAssemblyReference.cache
+C:\Users\SONY\source\repos\Файлы\Файлы\obj\Release\netcoreapp2.1\win-x86\Файлы.csproj.CoreCompileInputs.cache
+C:\Users\SONY\source\repos\Файлы\Файлы\obj\Release\netcoreapp2.1\win-x86\Файлы.AssemblyInfoInputs.cache
+C:\Users\SONY\source\repos\Файлы\Файлы\obj\Release\netcoreapp2.1\win-x86\Файлы.AssemblyInfo.cs
+C:\Users\SONY\source\repos\Файлы\Файлы\obj\Release\netcoreapp2.1\win-x86\Файлы.dll
+C:\Users\SONY\source\repos\Файлы\Файлы\obj\Release\netcoreapp2.1\win-x86\Файлы.pdb
